@@ -89,49 +89,6 @@ app.delete("listings/:id", async (req , res) => {
   res.redirect("/listings");
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // app.get("/testing", async (req, res) => {
 //     let sampleLesting = new Listing({
 //         title: "My villa",
